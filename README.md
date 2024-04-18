@@ -4,7 +4,7 @@
 
 [Paper](https://ieeexplore.ieee.org/document/10356553) [(Arxiv)](https://ieeexplore.ieee.org/document/10356553)
 
-**This work was developed from the Dartmouth College COSC 189 Video Understanding course.**
+**This work was developed from the [Dartmouth College COSC 189 Video Understanding course](https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-89-30/).**
 
 ![Pipeline figure](AV-MAE.png)
 
